@@ -1,9 +1,9 @@
 # Avindu & Yavishka — Wedding Venue Website
 
-A responsive, white-and-gold wedding invitation and venue-sharing website built with Next.js, TypeScript, Tailwind CSS, and the supplied hotel photos. Configured for static export and Vercel deployment.
+A responsive, white-and-gold wedding invitation and venue-sharing website built with Next.js, TypeScript, Tailwind CSS, and the supplied hotel photos. Includes a live countdown to 20 January 2027, scroll-triggered reveals, floating lotus-inspired details, gentle hero zoom, and touch-friendly mobile layouts. Configured for static export and Vercel deployment.
 
 ## Before publishing
-- The wedding date/time were not included in the request, so the site currently says **Coming soon** and does not invent a date.
+- Wedding date is set to **Wednesday, 20 January 2027**. The page includes a live countdown; the ceremony time is not displayed because it has not been provided.
 - The Milkshake profile exposed the hotel location and Facebook page, but did not expose a readable phone number in the page content. The site links to the profile for current hotel/contact details.
 - Confirm the final wedding date/time and optionally add a couple's contact number before publishing.
 
